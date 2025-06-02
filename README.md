@@ -82,4 +82,6 @@ Bu belge, sosyal medya içerikleri üretmek için kullanılabilecek **ücretsiz*
 ---
 
 🧠 **Hazırlayan:**  
-Eğitim Amaçlı Yapay Zeka Araçları Rehberi  
+Melih Takyaci
+Muhammmet Damar
+Bertuğ Taş
