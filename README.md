@@ -83,5 +83,7 @@ Bu belge, sosyal medya içerikleri üretmek için kullanılabilecek **ücretsiz*
 
 🧠 **Hazırlayan:**  
 Melih Takyaci
+
 Muhammmet Damar
+
 Bertuğ Taş
